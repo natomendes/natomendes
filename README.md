@@ -14,7 +14,7 @@
 
 <div align="center">
  <a href="https://www.linkedin.com/in/renatolmendes/">
-  <img height="180em" alt="Renato Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natomendes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" alt="Renato Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=natomendes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   <img height="180em" alt="Renato Github Status" src="https://github-readme-stats.vercel.app/api?username=natomendes&show_icons=true&theme=tokyonight"/>
 </div>
  
