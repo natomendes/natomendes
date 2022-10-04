@@ -23,9 +23,28 @@
  <div>
   <h1>Linguagens</h1>
   <ul>
-   <li>JavaScript</li>
    <li>TypeScript</li>
-  </ul> 
+   <li>JavaScript</li>
+   <li>HTML</li>
+   <li>CSS</li>
+  </ul>
+  <h1>Frameworks e Bibliotecas</h1>
+  <ul>
+    <li>
+      <h2>Backend</h2>
+      <ul>
+           <li>NodeJS</li>
+          <li>Express</li>
+          <li>Prisma</li>
+          <li>Sequelize</li>
+      </ul>
+    </li>    
+   <li>React</li>
+   <li>Jest</li>
+   <li>React Testing Library</li>
+   <li>Mocha</li>
+   <li>Chai</li>
+  </ul>
 </div>
  
   <!-- <img align="center" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> --> 
