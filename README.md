@@ -8,13 +8,13 @@
 <p align="center">Fique à vontade, aqui estão alguns dos projetos que venho realizando!</p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renatolmendes/)
-[![Gmail Badge](https://img.shields.io/badge/-mendeslrenato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mendeslrenato@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/-mendeslrenato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mendeslrenato@gmail.com)](mailto:mendeslrenato@gmail.com)
 
 ## GitHub
 
 <div align="center">
  <a href="https://www.linkedin.com/in/renatolmendes/">
-  <img height="180em" alt="Renato Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natomendeso&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" alt="Renato Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natomendes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   <img height="180em" alt="Renato Github Status" src="https://github-readme-stats.vercel.app/api?username=natomendes&show_icons=true&theme=tokyonight"/>
 </div>
  
