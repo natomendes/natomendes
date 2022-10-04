@@ -18,10 +18,12 @@
 </div>
  
  <div>
-  <h1>Linguagens</h1>
+  <h1>Linguagens e Tecnologias</h1>
   <ul>
    <li>TypeScript</li>
    <li>JavaScript</li>
+   <li>Banco de dados Relacional</li>
+   <li>Banco de dados Não-Relacional</li>
    <li>HTML</li>
    <li>CSS</li>
   </ul>
@@ -48,7 +50,7 @@
           <li>Jest</li>
           <li>React Testing Library</li>
       </ul>
-    </li>  
+    </li>
   </ul>
 </div>
  
