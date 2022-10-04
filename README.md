@@ -18,8 +18,6 @@
   <img height="180em" alt="Renato Github Status" src="https://github-readme-stats.vercel.app/api?username=natomendes&show_icons=true&theme=tokyonight"/>
 </div>
  
- ## Ferramentas e Linguagens
- 
  <div>
   <h1>Linguagens</h1>
   <ul>
