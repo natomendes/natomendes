@@ -5,7 +5,6 @@
 <p>Atualmente estou estudando na <a href="https://www.betrybe.com/" target="_blank">Trybe</a> para me tornar um desenvolvedor full-stack. O curso conta com mais de 1.500 horas de aulas distribuídas entre os módulos de introdução ao desenvolvimento de software, desenvolvimento front-end & back-end, e ciências da computação.</p>
 
 <p>Abordando, entre outros temas, JavaScript, TypeScript, Python, engenheria de software, POO, princípios SOLID, DRY, TDD, MVC, metodologias ágeis e habilidades comportamentais.</p>
-<p align="center">Fique à vontade, aqui estão alguns dos projetos que venho realizando!</p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renatolmendes/)
 [![Gmail Badge](https://img.shields.io/badge/-mendeslrenato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mendeslrenato@gmail.com)](mailto:mendeslrenato@gmail.com)
@@ -42,7 +41,10 @@
     <li>
       <h2>Frontend</h2>
       <ul>
-          <li>React</li>
+          <li>React</li>          
+          <li>Redux/Redux thunk</li>       
+          <li>Tailwind CSS</li>       
+          <li>Styled-components</li>       
           <li>Jest</li>
           <li>React Testing Library</li>
       </ul>
