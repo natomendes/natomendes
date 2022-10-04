@@ -33,17 +33,22 @@
     <li>
       <h2>Backend</h2>
       <ul>
-           <li>NodeJS</li>
+          <li>NodeJS</li>
           <li>Express</li>
           <li>Prisma</li>
           <li>Sequelize</li>
+          <li>Mocha</li>
+          <li>Chai</li>
       </ul>
-    </li>    
-   <li>React</li>
-   <li>Jest</li>
-   <li>React Testing Library</li>
-   <li>Mocha</li>
-   <li>Chai</li>
+    </li>
+    <li>
+      <h2>Frontend</h2>
+      <ul>
+          <li>React</li>
+          <li>Jest</li>
+          <li>React Testing Library</li>
+      </ul>
+    </li>  
   </ul>
 </div>
  
