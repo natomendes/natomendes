@@ -13,7 +13,7 @@
 ## GitHub
 
 <div align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natomendes)](https://github.com/natomendes)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natomendes)]
 </div>
  
  ## Ferramentas e Linguagens
