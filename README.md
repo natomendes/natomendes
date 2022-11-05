@@ -1,6 +1,9 @@
 
 # Olá, me chamo Renato Mendes! 👋
 ## Seja bem-vinda(o) ao meu gitHub.
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendeslrenat@gmail.com)
 
 
 ## 🚀 Sobre mim
@@ -41,8 +44,7 @@ desenvolvimento de softwares como profissão.
 - JWT (JsonWebToken)
 - Chai / Sinon / Mocha
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renatolmendes/)
-[![Gmail Badge](https://img.shields.io/badge/-mendeslrenato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mendeslrenato@gmail.com)](mailto:mendeslrenato@gmail.com)
+
 
 ## GitHub
 
