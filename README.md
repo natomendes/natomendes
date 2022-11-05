@@ -2,7 +2,7 @@
 
 <p>Um olhar atento aos detalhes, uma vontate de aprender aliada a capacidade de absorver novos conhecimentos e um racíocinio lógico apurado são algumas das minhas características que me fizeram escolher o desenvolvimento de softwares como profissão.</p>
 
-<p>
+
  Stack:
 - React
 - NodeJS
@@ -21,7 +21,7 @@ Habilidades:
 - SQL
 - Python (Conhecimentos básicos)
 - Java (Conhecimentos básicos)
-</p>
+
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renatolmendes/)
