@@ -2,9 +2,26 @@
 
 <p>Um olhar atento aos detalhes, uma vontate de aprender aliada a capacidade de absorver novos conhecimentos e um racíocinio lógico apurado são algumas das minhas características que me fizeram escolher o desenvolvimento de softwares como profissão.</p>
 
-<p>Atualmente estou estudando na <a href="https://www.betrybe.com/" target="_blank">Trybe</a> para me tornar um desenvolvedor full-stack. O curso conta com mais de 1.500 horas de aulas distribuídas entre os módulos de introdução ao desenvolvimento de software, desenvolvimento front-end & back-end, e ciências da computação.</p>
+<p>Stack:
+- React
+- NodeJS
+- Express
+- MySQL
+- MongoDB
+- Docker
+- Git & GitHub
+- TailwindCSS
+- Styled-Components
 
-<p>Abordando, entre outros temas, JavaScript, TypeScript, Python, engenheria de software, POO, princípios SOLID, DRY, TDD, MVC, metodologias ágeis e habilidades comportamentais.</p>
+Habilidades:
+- Metodologias Ágeis
+- JavaScript
+- TypeScript
+- SQL
+- Python (Conhecimentos básicos)
+- Java (Conhecimentos básicos)
+</p>
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renatolmendes/)
 [![Gmail Badge](https://img.shields.io/badge/-mendeslrenato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mendeslrenato@gmail.com)](mailto:mendeslrenato@gmail.com)
