@@ -2,7 +2,8 @@
 
 <p>Um olhar atento aos detalhes, uma vontate de aprender aliada a capacidade de absorver novos conhecimentos e um racíocinio lógico apurado são algumas das minhas características que me fizeram escolher o desenvolvimento de softwares como profissão.</p>
 
-<p>Stack:
+<p>
+ Stack:
 - React
 - NodeJS
 - Express
