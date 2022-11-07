@@ -35,7 +35,8 @@ desenvolvimento de softwares como profissão.
 - Context API
 - TailwindCSS
 - Styled-Components
-- React Testing Library / Jest
+- React Testing Library / Jest  
+   
 **Back-end:**
 - Node
 - Express
