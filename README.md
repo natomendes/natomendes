@@ -14,7 +14,9 @@ desenvolvimento de softwares como profissão.
 
 
 ## 🛠 Habilidades
-- Metodologias Ágeis
+- Metodologias Ágeis / Scrum / Kanban
+- S.O.L.I.D
+- Clean Architecture
 - Docker
 - TDD
 - Git / GitHub
@@ -42,6 +44,9 @@ desenvolvimento de softwares como profissão.
 - Express
 - MySQL
 - MongoDb
+- Bcrypt
+- Husky
+- Lint-Staged
 - JWT (JsonWebToken)
 - Chai / Sinon / Mocha
 
