@@ -7,30 +7,11 @@
 
 
 ## 🚀 Sobre mim
-No inicio de 2022 decidi retomar minha jornada para me tornar um Desenvolvedor de Software.
-Ingressei no curso da Trybe e de lá pra cá foram inúmeras lições aprendidas, noites de sono perdido e momentos que cheguei a questionar se havia feito a escolha correta.
+Olá, sou um desenvolvedor full-stack com forte habilidade em backend. Sou uma pessoa resiliente e centrada, que consegue manter a calma mesmo em situações desafiadoras. Tenho grande paixão por desafios e sou motivado pela curiosidade e pela vontade de aprender coisas novas pois acredito que o aprendizado contínuo é fundamental para o crescimento pessoal e profissional. 
 
-As dúvidas deram lugar a certeza, certeza de que tomei a decisão correta, quando percebi que trabalhar com Tecnologia, com desenvolvimento de softwares é o que me traz aquele brilho nos olhos, aquela vontade de superar desafios, de aprender e aprender mais e mais a cada dia, para que devagar, consciente de onde quero estar daqui a 5 anos, eu possa construir com resiliência e perseverança a carreira que sempre desejei.
+No trabalho em equipe, meu objetivo é sempre alcançar resultados superiores e acredito que a sinergia entre os integrantes é essencial para o sucesso de qualquer projeto. Meu foco é na resolução de problemas e busco sempre pensar fora da caixa para encontrar soluções inovadoras e eficientes. 
 
-Atualmente além do curso da Trybe, que conta com mais de 1.500 horas de aulas distribuídas entre os módulos de introdução ao desenvolvimento de software, front-end, back-end, e ciências da computação, tenho dedicado meus estudos a Programação Orientada a Testes (TDD), Design Patterns, Clean Architecture e princípios de SOLID, DRY, YAGNI e KISS.
-
-Amante de códigos limpos e bem organizados. Gosto de trabalhar em equipe na criação de soluções inovadoras para as adversidades do dia-a-dia.
-
-## 🛠 Habilidades
-- Metodologias Ágeis / Scrum / Kanban
-- S.O.L.I.D
-- Clean Architecture
-- Docker
-- TDD
-- Git / GitHub
-- TypeScript
-- JavaScript
-- HTML5 / CSS3
-- SQL
-- NoSql
-- Python (Conhecimentos básicos)
-- Java (Conhecimentos básicos)
-- C (Conhecimentos básicos)
+Desde o início da minha carreira, sempre fui apaixonado por códigos limpos e bem estruturados. Acredito que a qualidade do código é fundamental para a criação de sistemas robustos e escaláveis. Combinando minhas habilidades técnicas e minhas habilidades interpessoais, estou sempre buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores e impactantes. 
 
 ## GitHub
 
