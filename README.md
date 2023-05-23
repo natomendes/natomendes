@@ -1,7 +1,7 @@
 
 # Olá, me chamo Renato Mendes! 👋
 ### Meus contatos.
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatolmendes/)
 
 [![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendeslrenat@gmail.com)
 
