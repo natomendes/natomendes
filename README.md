@@ -7,7 +7,7 @@
 
 
 ## 🚀 Sobre mim
-Olá, sou um desenvolvedor full-stack com forte habilidade em backend. Sou uma pessoa resiliente e centrada, que consegue manter a calma mesmo em situações desafiadoras. Tenho grande paixão por desafios e sou motivado pela curiosidade e pela vontade de aprender coisas novas pois acredito que o aprendizado contínuo é fundamental para o crescimento pessoal e profissional. 
+Sou uma pessoa resiliente e centrada, que consegue manter a calma mesmo em situações desafiadoras. Tenho grande paixão por desafios e sou motivado pela curiosidade e pela vontade de aprender coisas novas pois acredito que o aprendizado contínuo é fundamental para o crescimento pessoal e profissional. 
 
 No trabalho em equipe, meu objetivo é sempre alcançar resultados superiores e acredito que a sinergia entre os integrantes é essencial para o sucesso de qualquer projeto. Meu foco é na resolução de problemas e busco sempre pensar fora da caixa para encontrar soluções inovadoras e eficientes. 
 
